@@ -1,5 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)
-](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+https://forthebadge.com/images/badges/powered-by-coffee.svg
 # ChatNet
 ChatNet is a free, open-source web application for real-time messaging and voice/video calls designed for small groups of friends or communities. The application will be built using modern web technologies and will follow best practices for security and performance.
 
