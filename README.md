@@ -2,7 +2,7 @@
 # ChatNet
 ChatNet is a free, open-source web application for real-time messaging and voice/video calls designed for small groups of friends or communities. The application will be built using modern web technologies and will follow best practices for security and performance.
 
-This project is being developed under the NexusRealms team, a group of dedicated and passionate individuals working together to build a unique game called Eclipse's Edge. If you're interested in joining the team, please visit our Discord server at https://discord.gg/KqZm6mMxfB.
+This project is being developed under the NexusRealms team.
 # Disclaimer 
 This is a very early prototype and any help is welcome if you want to help join our discord and contact the server owner
 # Features
